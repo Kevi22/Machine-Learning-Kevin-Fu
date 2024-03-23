@@ -12,6 +12,7 @@ pandas = "*"
 black = "*"
 seaborn = "*"
 tensorflow = "*"
+joblib = "*"
 
 [dev-packages]
 
